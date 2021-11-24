@@ -1,16 +1,14 @@
 ### Hi there 👋
 
-<!--
-**Justin2997/Justin2997** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am Justin, 
+DevOps at ServiceNow, Founder and Full Stack Dev at Evenix. Working on Web3 in my free time.
 
-Here are some ideas to get you started:
+🔭  Working on :
+- [A easy way to show your NFT on a web site](https://collections.justinbrulotte.com/)
+- [A smart way to take control of your event](https://evenix.ca/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Check all my pass project on [my personnal website](https://www.justinbrulotte.com/)
+
+### Cool Github Stats 😎 
+
+![Justin2997 GitHub stats](https://github-readme-stats.vercel.app/api?username=Justin2997&count_private=true&show_icons=true&theme=dark)
