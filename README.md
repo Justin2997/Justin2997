@@ -5,6 +5,7 @@ DevOps at ServiceNow, Founder and Full Stack Dev at Evenix. Working on Web3 in m
 
 🔭  Working on :
 - [A easy way to show your NFT on a web site](https://collections.justinbrulotte.com/)
+- [A smart way to trade NFT using AI](https://quantnft.io/)
 - [A smart way to take control of your event](https://evenix.ca/)
 - [Supercharge electrical car](https://devpost.com/software/projet-kayak)
 
