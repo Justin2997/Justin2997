@@ -8,6 +8,7 @@ DevOps at ServiceNow, Founder and Full Stack Dev at Evenix. Working on Web3 in m
 - [A smart way to take control of your event](https://evenix.ca/)
 - [Supercharge electrical car](https://devpost.com/software/projet-kayak)
 - [A very easy way for local shop to accept crypto](https://cryptotaco.xyz/)
+- [A intuitive way of using mobile robotics](https://artik.tech/)
 
 Check all my past projects on [my personnal website](https://www.justinbrulotte.com/)
 
