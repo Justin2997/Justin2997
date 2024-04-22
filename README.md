@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 I am Justin, 
-DevOps at ServiceNow, Founder and Full Stack Dev at Evenix. Working on Web3 in my free time.
+Senior MLOps at ServiceNow, Founder and Full Stack Dev at Evenix and Co-Founder and VP Sofware at ARTIK. Working on Web3 in my free time.
 
 🔭  Working on :
 - [A easy way to show your NFT on a web site](https://collections.justinbrulotte.com/)
