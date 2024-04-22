@@ -9,6 +9,7 @@ DevOps at ServiceNow, Founder and Full Stack Dev at Evenix. Working on Web3 in m
 - [Supercharge electrical car](https://devpost.com/software/projet-kayak)
 - [A very easy way for local shop to accept crypto](https://cryptotaco.xyz/)
 - [A intuitive way of using mobile robotics](https://artik.tech/)
+- [A fast way to follow your Facebook friends birthdays](https://chromewebstore.google.com/detail/facebook-birthdays-export)
 
 Check all my past projects on [my personnal website](https://www.justinbrulotte.com/)
 
